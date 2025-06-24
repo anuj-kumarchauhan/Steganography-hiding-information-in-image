@@ -24,4 +24,7 @@ This project implements secure steganography by combining **AES encryption** wit
 
 ---
 
-
+### Prerequisites
+Install the required libraries:
+```bash
+pip install cryptography pillow numpy
